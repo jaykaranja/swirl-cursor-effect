@@ -9,7 +9,7 @@ function Hero() {
           Transform Your Website
         </h2>
         <h2 className="w-[150px] max-[770px]:w-[220px]">
-          With Motion Art Effect
+          With e-commerce tools
         </h2>
       </div>
       {/* right part */}
@@ -18,15 +18,15 @@ function Hero() {
           <h2 className="text-[55px] leading-[75px] font-semibold max-[1030px]:text-[40px] max-[1030px]:leading-[60px]">
             Attract Your Visitors Attention With Colorful
             <br />
-            <span className="gradient_text">Motion Art Effect</span>
+            <span className="gradient_text">e-commerce tools</span>
           </h2>
         <button className="gradient_bg w-fit flex space-x-5 items-center py-4 px-8 rounded-3xl mt-10 text-[20px] font-light">
           <p>Purchase From Envato</p>
           <img src={rightIcon} alt="right-icon" className="h-[30px]" />
         </button>
           <p className="w-[100%] pr-5 mt-5 opacity-70 tracking-wide leading-[1.6em]">
-            Unleash the power of creativity with Motion Art for Elementor - your
-            ultimate solution for seamlessly integrating captivating animations
+            Unleash the power of creativity with tools for Elementor - your
+            ultimate solution for seamlessly integrating captivating tools
             into your website.
           </p>
         </div>
