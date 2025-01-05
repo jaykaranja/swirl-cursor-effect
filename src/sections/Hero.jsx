@@ -20,6 +20,10 @@ function Hero() {
             <br />
             <span className="gradient_text">Motion Art Effect</span>
           </h2>
+        <button className="gradient_bg w-fit flex space-x-5 items-center py-4 px-8 rounded-3xl mt-10 text-[20px] font-light">
+          <p>Purchase From Envato</p>
+          <img src={rightIcon} alt="right-icon" className="h-[30px]" />
+        </button>
           <p className="w-[100%] pr-5 mt-5 opacity-70 tracking-wide leading-[1.6em]">
             Unleash the power of creativity with Motion Art for Elementor - your
             ultimate solution for seamlessly integrating captivating animations
